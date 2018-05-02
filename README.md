@@ -5,3 +5,9 @@ To learn how to install and use this theme, please check out the [installation g
 
 ## License
 This theme is open source under MIT License. So feel free to use this Jekyll theme on your site, although linking back to me is more than welcomed.
+##This is a H6
+#This is a H1
+>dfg
+df
+![Alt text](/image/duck.jpg)
+I'm duck. 
